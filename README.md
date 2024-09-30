@@ -5,7 +5,7 @@ competition is also high. This dataset is one of the historical sales of superma
 company which has recorded in 3 different branches for 3 months data. Predictive 
 data analytics methods are easy to apply to these datasets
 
-Conclusion :
+Insights:
 In all The Branches have same number of sales and gross and sales amount There is no any major changes in these branches.
 * The analysis indicates that Branch A outperforms Branches B and C, highlighting the need for targeted marketing efforts and discounts to boost sales    in the latter branches.
 * Higher numbers of male customers in Yangon and Mandalay suggest opportunities to promote health, beauty, food, and fashion products to attract female   shoppers.
